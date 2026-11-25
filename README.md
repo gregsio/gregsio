@@ -21,5 +21,3 @@ In the US for most of my career, currently in France.
 - **The Meet Group**: social, dating and live video apps, 4M+ daily users; led the on-prem to AWS migration
 - **Skout**: built the data center footprint for a social app with millions of users
 - **Viadeo**: systems and network engineering for the French counterpart to LinkedIn
-
-[LinkedIn](https://linkedin.com/in/gregsaramite)
